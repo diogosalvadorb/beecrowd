@@ -1,0 +1,16 @@
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.exe
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.deps.json
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.runtimeconfig.json
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.runtimeconfig.dev.json
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.dll
+C:\Users\diogo\GitHub\beecrowd\1003\1003\bin\Debug\net5.0\1003.pdb
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.csproj.AssemblyReference.cache
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.AssemblyInfoInputs.cache
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.AssemblyInfo.cs
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.csproj.CoreCompileInputs.cache
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.dll
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\refint\1003.dll
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.pdb
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\1003.genruntimeconfig.cache
+C:\Users\diogo\GitHub\beecrowd\1003\1003\obj\Debug\net5.0\ref\1003.dll
