@@ -6,11 +6,11 @@ namespace _1016
     {
         static void Main(string[] args)
         {
-            int tempo, y;
+            int tempo, distancia;
 
-            y = int.Parse(Console.ReadLine());
+            distancia = int.Parse(Console.ReadLine());
 
-            tempo = y * 2;
+            tempo = distancia * 2;
 
             Console.WriteLine($"{tempo} minutos");
         }
