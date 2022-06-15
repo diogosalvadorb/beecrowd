@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1012
+namespace _1013
 {
     internal class Program
     {
