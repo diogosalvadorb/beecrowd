@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1013\\1013\\1013.csproj",
-      "projectName": "1013",
-      "projectPath": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1013\\1013\\1013.csproj",
+      "projectUniqueName": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1017\\1017\\1017.csproj",
+      "projectName": "1017",
+      "projectPath": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1017\\1017\\1017.csproj",
       "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1013\\1013\\obj\\",
+      "outputPath": "C:\\Users\\diogo\\Github\\beecrowd\\src\\1017\\1017\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
